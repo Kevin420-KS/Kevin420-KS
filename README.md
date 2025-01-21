@@ -11,7 +11,7 @@
 </div>
 
 <!-- Languages and Tools with 3D Flip Animation -->
-<h3 align="center">Languages and Tools</h3>
+<h3 align="center">Languages & Tools</h3>
 <p align="center" class="tools-container">
     <a href="https://github.com/Kevin420-KS/PBO" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" class="tool-icon"/> 
