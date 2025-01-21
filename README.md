@@ -6,6 +6,6 @@
 <div align="center">
     <!-- Menampilkan Teks Berjalan -->
     <h1>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=FF3333&center=true&vCenter=true&width=435&lines=キラークイーン+バイツァ・ダスト" alt="Typing SVG"/>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=FF3333&center=true&vCenter=true&width=435&lines=キラークイーン+バイツァ・ダスト;Killer+Queen+Bite+to+Dust" alt="Typing SVG"/>
     </h1>
 </div>
