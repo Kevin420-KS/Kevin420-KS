@@ -11,7 +11,7 @@
 </div>
 
 <!-- Languages and Tools with 3D Flip Animation -->
-<h3 align="center">Languages & Tools</h3>
+<h3 align="center">Languages and Tools</h3>
 <p align="center" class="tools-container">
     <a href="https://github.com/Kevin420-KS/PBO" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" class="tool-icon"/> 
@@ -23,7 +23,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" class="tool-icon"/> 
     </a>
     <a href="https://www.apachefriends.org/index.html" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xampp/xampp-original.svg" alt="XAMPP" width="40" height="40" class="tool-icon"/> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xampp/xampp-original-wordmark.svg" alt="XAMPP" width="40" height="40" class="tool-icon"/> 
     </a>
     <a href="https://www.mysql.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" class="tool-icon"/> 
