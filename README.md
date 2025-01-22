@@ -1,4 +1,63 @@
 <div align="center" style="margin-top: 20px;">
+    <!-- Menampilkan Teks Judul -->
+    <h1 style="color: white;">My Statistik GitHub</h1>
+</div>
+
+<div align="center" style="margin-top: 20px; background-color: #1E1E2E; border-radius: 10px; padding: 20px;">
+    <div style="display: flex; justify-content: space-between; align-items: center; max-width: 800px; margin: auto; color: white;">
+        <!-- Statistik GitHub -->
+        <div style="flex: 1; text-align: left;">
+            <h2>Team Anu Bot's GitHub Stats</h2>
+            <p>Total Stars Earned: <b>23</b></p>
+            <p>Total Commits (2025): <b>389</b></p>
+            <p>Total PRs: <b>0</b></p>
+        </div>
+        <!-- Grade -->
+        <div style="flex: 0.3; text-align: center;">
+            <div style="width: 100px; height: 100px; border: 4px solid #FF77AA; border-radius: 50%; display: flex; justify-content: center; align-items: center;">
+                <h1 style="color: #FF77AA; font-size: 32px;">B-</h1>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div align="center" style="margin-top: 40px; background-color: #1E1E2E; border-radius: 10px; padding: 20px; max-width: 800px; margin: auto;">
+    <h2 style="color: white;">Most Used Languages</h2>
+    <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+        <div style="width: 48%; margin: 5px; background-color: #FF77AA; border-radius: 5px; padding: 10px; color: white;">
+            JavaScript: <b>16.86%</b>
+        </div>
+        <div style="width: 48%; margin: 5px; background-color: #FF77AA; border-radius: 5px; padding: 10px; color: white;">
+            PHP: <b>14.14%</b>
+        </div>
+        <div style="width: 48%; margin: 5px; background-color: #FF77AA; border-radius: 5px; padding: 10px; color: white;">
+            C++: <b>13.02%</b>
+        </div>
+        <div style="width: 48%; margin: 5px; background-color: #FF77AA; border-radius: 5px; padding: 10px; color: white;">
+            CSS: <b>12.83%</b>
+        </div>
+        <div style="width: 48%; margin: 5px; background-color: #FF77AA; border-radius: 5px; padding: 10px; color: white;">
+            C: <b>10.37%</b>
+        </div>
+        <div style="width: 48%; margin: 5px; background-color: #FF77AA; border-radius: 5px; padding: 10px; color: white;">
+            HTML: <b>9.18%</b>
+        </div>
+        <div style="width: 48%; margin: 5px; background-color: #FF77AA; border-radius: 5px; padding: 10px; color: white;">
+            Jupyter Notebook: <b>8.33%</b>
+        </div>
+        <div style="width: 48%; margin: 5px; background-color: #FF77AA; border-radius: 5px; padding: 10px; color: white;">
+            Java: <b>5.33%</b>
+        </div>
+        <div style="width: 48%; margin: 5px; background-color: #FF77AA; border-radius: 5px; padding: 10px; color: white;">
+            Dockerfile: <b>5.08%</b>
+        </div>
+        <div style="width: 48%; margin: 5px; background-color: #FF77AA; border-radius: 5px; padding: 10px; color: white;">
+            Blade: <b>4.86%</b>
+        </div>
+    </div>
+</div>
+
+<div align="center" style="margin-top: 20px;">
     <!-- Menampilkan GIF -->
     <img src="https://github.com/Kevin420-KS/Kevin420-KS/blob/main/a3d5892f2e8074c0f4631e457c7c534b.gif" alt="GIF Animation" width="600" style="border-radius: 10px;"/>
 </div>
