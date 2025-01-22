@@ -11,8 +11,8 @@
 </div>
 
 <div align="center" style="margin-top: 20px;">
-    <h2>About Me</h2>
-    <p>Select Language:</p>
+    <h2>📖 About Me:</h2>
+    <p>Please select language you want to see:</p>
     <div>
         <a href="https://github.com/Kevin420-KS/About-Myself/blob/main/English" target="_blank" style="margin: 0 10px;">
             <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="USA Flag" width="40" height="25"/>
@@ -26,7 +26,7 @@
     </div>
 </div>
 
-<h3 align="center" style="margin-top: 50px;">Languages & Tools</h3>
+<h3 align="center" style="margin-top: 50px;">💻 Programing languages I've learned so far:</h3>
 <p align="center" class="tools-container" style="margin-top: 20px;">
     <a href="https://github.com/Kevin420-KS/PBO" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" class="tool-icon"/>
@@ -42,7 +42,7 @@
     </a>
 </p>
 
-<h3 align="center" style="margin-top: 50px;">Find Me On</h3>
+<h3 align="center" style="margin-top: 50px;">🥰 Feel free to follow one of my social media:</h3>
 <p align="center" class="social-container" style="margin-top: 20px;">
     <a href="https://www.instagram.com/no_logic_thinker/" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
         <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="40" height="40" class="social-icon"/>
