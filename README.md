@@ -10,6 +10,22 @@
     </h1>
 </div>
 
+<div align="center" style="margin-top: 20px;">
+    <h2>About Me</h2>
+    <p>Select Language:</p>
+    <div>
+        <a href="https://github.com/Kevin420-KS/About-Myself/blob/main/English" target="_blank" style="margin: 0 10px;">
+            <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="USA Flag" width="40" height="25"/>
+        </a>
+        <a href="https://github.com/Kevin420-KS/About-Myself/blob/main/Indonesia" target="_blank" style="margin: 0 10px;">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg" alt="Indonesia Flag" width="40" height="25"/>
+        </a>
+        <a href="https://github.com/Kevin420-KS/About-Myself/blob/main/Japanese" target="_blank" style="margin: 0 10px;">
+            <img src="https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg" alt="Japan Flag" width="40" height="25"/>
+        </a>
+    </div>
+</div>
+
 <div align="center" style="margin-top: 40px;">
     <!-- Statistik Bahasa Pemrograman -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin420-KS&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Kevin420-KS's Top Languages" width="400"/>
