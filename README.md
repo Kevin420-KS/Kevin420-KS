@@ -1,32 +1,4 @@
 <div align="center" style="margin-top: 20px;">
-    <!-- Menampilkan Teks Judul -->
-    <h1 style="color: white;">My Statistik GitHub</h1>
-</div>
-
-<div align="center" style="margin-top: 20px; background-color: #1E1E2E; border-radius: 10px; padding: 20px;">
-    <div style="display: flex; justify-content: space-between; align-items: center; max-width: 800px; margin: auto; color: white;">
-        <!-- Statistik GitHub -->
-        <div style="flex: 1; text-align: left;">
-            <h2>Kevin420-KS's GitHub Stats</h2>
-            <p>Total Stars Earned: <b>23</b></p>
-            <p>Total Commits (2025): <b>389</b></p>
-            <p>Total PRs: <b>0</b></p>
-        </div>
-        <!-- Grade -->
-        <div style="flex: 0.3; text-align: center;">
-            <div style="width: 100px; height: 100px; border: 4px solid #FF77AA; border-radius: 50%; display: flex; justify-content: center; align-items: center;">
-                <h1 style="color: #FF77AA; font-size: 32px;">B-</h1>
-            </div>
-        </div>
-    </div>
-</div>
-
-<div align="center" style="margin-top: 40px; background-color: #1E1E2E; border-radius: 10px; padding: 20px; max-width: 800px; margin: auto;">
-    <h2 style="color: white;">Most Used Languages</h2>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin420-KS&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Kevin420-KS's Top Languages" width="400"/>
-</div>
-
-<div align="center" style="margin-top: 20px;">
     <!-- Menampilkan GIF -->
     <img src="https://github.com/Kevin420-KS/Kevin420-KS/blob/main/a3d5892f2e8074c0f4631e457c7c534b.gif" alt="GIF Animation" width="600" style="border-radius: 10px;"/>
 </div>
@@ -36,6 +8,11 @@
     <h1>
         <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=24&duration=3000&color=FF3333&center=true&vCenter=true&width=600&lines=キラークイーン+バイツァ・ダスト;Killer+Queen+Bite+to+Dust" alt="Typing SVG"/>
     </h1>
+</div>
+
+<div align="center" style="margin-top: 40px;">
+    <!-- Statistik Bahasa Pemrograman -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin420-KS&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Kevin420-KS's Top Languages" width="400"/>
 </div>
 
 <h3 align="center" style="margin-top: 50px;">Languages & Tools</h3>
