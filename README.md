@@ -10,11 +10,6 @@
     </h1>
 </div>
 
-<div align="center" style="margin-top: 40px;">
-    <!-- Statistik Bahasa Pemrograman -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin420-KS&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Kevin420-KS's Top Languages" width="400"/>
-</div>
-
 <h3 align="center" style="margin-top: 50px;">Languages & Tools</h3>
 <p align="center" class="tools-container" style="margin-top: 20px;">
     <a href="https://github.com/Kevin420-KS/PBO" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
@@ -46,3 +41,8 @@
         <img src="https://cdn-icons-png.flaticon.com/512/2111/2111624.png" alt="Spotify" width="40" height="40" class="social-icon"/>
     </a>
 </p>
+
+<div align="center" style="margin-top: 50px;">
+    <!-- Statistik Bahasa Pemrograman -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin420-KS&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Kevin420-KS's Top Languages" width="400"/>
+</div>
