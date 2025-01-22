@@ -26,3 +26,20 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" class="tool-icon"/> 
     </a>
 </p>
+
+<!-- Social Media Logos -->
+<h3 align="center">Find Me On</h3>
+<p align="center" class="social-container">
+    <a href="https://www.instagram.com/no_logic_thinker/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" alt="Instagram" width="40" height="40" class="social-icon"/> 
+    </a>
+    <a href="https://www.tiktok.com/@ucup_3sgul?_t=8r4aA9SZe1Y&_r=1&fbclid=PAZXh0bgNhZW0CMTEAAaazggStxbB7Q0t-0ie3gAp5dRL1QCF7kP_IHTwVX-7hJUsU0lPCxDnR_EQ_aem_tMAhUDy-3nIJU1YK6yuh0w" target="_blank" rel="noreferrer">
+        <img src="https://cdn-icons-png.flaticon.com/512/3046/3046120.png" alt="TikTok" width="40" height="40" class="social-icon"/> 
+    </a>
+    <a href="https://id.pinterest.com/KevinS420/" target="_blank" rel="noreferrer">
+        <img src="https://cdn-icons-png.flaticon.com/512/145/145808.png" alt="Pinterest" width="40" height="40" class="social-icon"/> 
+    </a>
+    <a href="https://open.spotify.com/playlist/6j9auWzHjFTOchxzfELX2w?si=99b20b2896a54965" target="_blank" rel="noreferrer">
+        <img src="https://cdn-icons-png.flaticon.com/512/2111/2111624.png" alt="Spotify" width="40" height="40" class="social-icon"/> 
+    </a>
+</p>
