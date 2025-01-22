@@ -4,10 +4,15 @@
 </div>
 
 <div align="center">
-    <!-- Menampilkan Teks Berjalan dengan ukuran lebih kecil -->
+    <!-- Menampilkan Teks Berjalan -->
     <h1>
         <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=20&duration=3000&color=FF3333&center=true&vCenter=true&width=500&lines=キラークイーン+バイツァ・ダスト;Killer+Queen+Bite+to+Dust" alt="Typing SVG"/>
     </h1>
+</div>
+
+<div align="center">
+    <!-- Statistik Bahasa Pemrograman -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin420-KS&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Kevin420-KS's Top Languages" width="355" />
 </div>
 
 <!-- Languages and Tools -->
