@@ -34,7 +34,7 @@
         <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="40" height="40" class="social-icon"/> 
     </a>
     <a href="https://www.tiktok.com/@ucup_3sgul?_t=8r4aA9SZe1Y&_r=1&fbclid=PAZXh0bgNhZW0CMTEAAaazggStxbB7Q0t-0ie3gAp5dRL1QCF7kP_IHTwVX-7hJUsU0lPCxDnR_EQ_aem_tMAhUDy-3nIJU1YK6yuh0w" target="_blank" rel="noopener noreferrer">
-        <img src="https://cdn-icons-png.flaticon.com/512/3046/3046120.png" alt="TikTok" width="40" height="40" class="social-icon"/> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Tiktok-icon-white-on-black.png" alt="TikTok" width="40" height="40" class="social-icon"/> 
     </a>
     <a href="https://id.pinterest.com/KevinS420/" target="_blank" rel="noopener noreferrer">
         <img src="https://cdn-icons-png.flaticon.com/512/145/145808.png" alt="Pinterest" width="40" height="40" class="social-icon"/> 
