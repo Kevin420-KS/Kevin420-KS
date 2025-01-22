@@ -7,7 +7,7 @@
     <div style="display: flex; justify-content: space-between; align-items: center; max-width: 800px; margin: auto; color: white;">
         <!-- Statistik GitHub -->
         <div style="flex: 1; text-align: left;">
-            <h2>Team Anu Bot's GitHub Stats</h2>
+            <h2>Kevin420-KS's GitHub Stats</h2>
             <p>Total Stars Earned: <b>23</b></p>
             <p>Total Commits (2025): <b>389</b></p>
             <p>Total PRs: <b>0</b></p>
@@ -23,38 +23,7 @@
 
 <div align="center" style="margin-top: 40px; background-color: #1E1E2E; border-radius: 10px; padding: 20px; max-width: 800px; margin: auto;">
     <h2 style="color: white;">Most Used Languages</h2>
-    <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-        <div style="width: 48%; margin: 5px; background-color: #FF77AA; border-radius: 5px; padding: 10px; color: white;">
-            JavaScript: <b>16.86%</b>
-        </div>
-        <div style="width: 48%; margin: 5px; background-color: #FF77AA; border-radius: 5px; padding: 10px; color: white;">
-            PHP: <b>14.14%</b>
-        </div>
-        <div style="width: 48%; margin: 5px; background-color: #FF77AA; border-radius: 5px; padding: 10px; color: white;">
-            C++: <b>13.02%</b>
-        </div>
-        <div style="width: 48%; margin: 5px; background-color: #FF77AA; border-radius: 5px; padding: 10px; color: white;">
-            CSS: <b>12.83%</b>
-        </div>
-        <div style="width: 48%; margin: 5px; background-color: #FF77AA; border-radius: 5px; padding: 10px; color: white;">
-            C: <b>10.37%</b>
-        </div>
-        <div style="width: 48%; margin: 5px; background-color: #FF77AA; border-radius: 5px; padding: 10px; color: white;">
-            HTML: <b>9.18%</b>
-        </div>
-        <div style="width: 48%; margin: 5px; background-color: #FF77AA; border-radius: 5px; padding: 10px; color: white;">
-            Jupyter Notebook: <b>8.33%</b>
-        </div>
-        <div style="width: 48%; margin: 5px; background-color: #FF77AA; border-radius: 5px; padding: 10px; color: white;">
-            Java: <b>5.33%</b>
-        </div>
-        <div style="width: 48%; margin: 5px; background-color: #FF77AA; border-radius: 5px; padding: 10px; color: white;">
-            Dockerfile: <b>5.08%</b>
-        </div>
-        <div style="width: 48%; margin: 5px; background-color: #FF77AA; border-radius: 5px; padding: 10px; color: white;">
-            Blade: <b>4.86%</b>
-        </div>
-    </div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin420-KS&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Kevin420-KS's Top Languages" width="400"/>
 </div>
 
 <div align="center" style="margin-top: 20px;">
@@ -67,11 +36,6 @@
     <h1>
         <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=24&duration=3000&color=FF3333&center=true&vCenter=true&width=600&lines=キラークイーン+バイツァ・ダスト;Killer+Queen+Bite+to+Dust" alt="Typing SVG"/>
     </h1>
-</div>
-
-<div align="center" style="margin-top: 40px;">
-    <!-- Statistik Bahasa Pemrograman -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin420-KS&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Kevin420-KS's Top Languages" width="400"/>
 </div>
 
 <h3 align="center" style="margin-top: 50px;">Languages & Tools</h3>
