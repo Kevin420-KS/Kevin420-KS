@@ -3,32 +3,6 @@
     <img src="https://github.com/Kevin420-KS/Kevin420-KS/blob/main/a3d5892f2e8074c0f4631e457c7c534b.gif" alt="GIF Animation" width="600" style="border-radius: 10px;"/>
 </div>
 
-<div align="center" style="margin-top: 20px;">
-    <!-- Tentang Diri Saya -->
-    <h2>About Myself</h2>
-    <p id="about-myself">
-        Hello, my name is Kevin and I am a student at the Esa Superior Campus from the Faculty of Computer Science, majoring in Information Engineering. I am still learning from basic things about programming, want to know things related to computers and the latest technology, and in the process of learning the mother tongue of a country such as Japanese. Greetings all.<br><br>
-        Halo nama saya Kevin dan saya adalah mahasiswa kampus esa unggul dari fakultas ilmu komputer jurusan teknik informatika. Saya masih mempelajari mulai dari hal-hal dasar tentang pemograman, Ingin tahu hal-hal yang berbau dengan komputer dan teknologi terbaru, dan dalam proses belajar bahasa ibu dari suatu negara seperti bahasa Jepang. Salam kenal semuanya.<br><br>
-        こんにちは、私の名前はケビンです。私はエサ ウングル大学のコンピュータサイエンス学部情報工学科の学生です。現在、プログラミングの基本的なことから学んでいます。コンピューターや最新のテクノロジーに関することを知りたいと思っています。また、ある国の母国語、例えば日本語の勉強もしています。皆さん、どうぞよろしくお願いします！
-    </p>
-    <div style="margin-top: 20px;">
-        <button onclick="showTranslation('en')">🇺🇸 English</button>
-        <button onclick="showTranslation('id')">🇮🇩 Bahasa Indonesia</button>
-        <button onclick="showTranslation('jp')">🇯🇵 日本語</button>
-    </div>
-</div>
-
-<script>
-    function showTranslation(lang) {
-        const translations = {
-            en: `Hello, my name is Kevin and I am a student at the Esa Superior Campus from the Faculty of Computer Science, majoring in Information Engineering. I am still learning from basic things about programming, want to know things related to computers and the latest technology, and in the process of learning the mother tongue of a country such as Japanese. Greetings all.`,
-            id: `Halo nama saya Kevin dan saya adalah mahasiswa kampus esa unggul dari fakultas ilmu komputer jurusan teknik informatika. Saya masih mempelajari mulai dari hal-hal dasar tentang pemograman, Ingin tahu hal-hal yang berbau dengan komputer dan teknologi terbaru, dan dalam proses belajar bahasa ibu dari suatu negara seperti bahasa Jepang. Salam kenal semuanya.`,
-            jp: `こんにちは、私の名前はケビンです。私はエサ ウングル大学のコンピュータサイエンス学部情報工学科の学生です。現在、プログラミングの基本的なことから学んでいます。コンピューターや最新のテクノロジーに関することを知りたいと思っています。また、ある国の母国語、例えば日本語の勉強もしています。皆さん、どうぞよろしくお願いします！`
-        };
-        document.getElementById('about-myself').innerText = translations[lang];
-    }
-</script>
-
 <div align="center" style="margin-top: 30px;">
     <!-- Menampilkan Teks Berjalan -->
     <h1>
@@ -36,7 +10,12 @@
     </h1>
 </div>
 
-<h3 align="center" style="margin-top: 50px;">Program Languages I've learned</h3>
+<div align="center" style="margin-top: 40px;">
+    <!-- Statistik Bahasa Pemrograman -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin420-KS&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Kevin420-KS's Top Languages" width="400"/>
+</div>
+
+<h3 align="center" style="margin-top: 50px;">Languages & Tools</h3>
 <p align="center" class="tools-container" style="margin-top: 20px;">
     <a href="https://github.com/Kevin420-KS/PBO" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" class="tool-icon"/>
@@ -52,7 +31,7 @@
     </a>
 </p>
 
-<h3 align="center" style="margin-top: 50px;">You can find in</h3>
+<h3 align="center" style="margin-top: 50px;">Find Me On</h3>
 <p align="center" class="social-container" style="margin-top: 20px;">
     <a href="https://www.instagram.com/no_logic_thinker/" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
         <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="40" height="40" class="social-icon"/>
@@ -67,8 +46,3 @@
         <img src="https://cdn-icons-png.flaticon.com/512/2111/2111624.png" alt="Spotify" width="40" height="40" class="social-icon"/>
     </a>
 </p>
-
-<div align="center" style="margin-top: 50px;">
-    <!-- Statistik Bahasa Pemrograman -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin420-KS&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Kevin420-KS's Top Languages" width="400"/>
-</div>
