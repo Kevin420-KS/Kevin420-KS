@@ -6,7 +6,7 @@
 <div align="center" style="margin-top: 30px;">
     <!-- Menampilkan Teks Berjalan -->
     <h1>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=24&duration=3000&color=FF3333&center=true&vCenter=true&width=600&lines=キラークイーン+バイツァ・ダスト;Killer+Queen+Bite+to+Dust" alt="Typing SVG"/>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=24&duration=3000&color=FF3333&center=true&vCenter=true&width=600&lines=%E3%82%AD%E3%83%A9%E3%83%BC%E3%82%AF%E3%82%A4%E3%83%BC%E3%83%B3+%E3%83%90%E3%82%A4%E3%83%84%E3%82%A1%E3%83%BB%E3%83%80%E3%82%B9%E3%83%88;Killer+Queen+Bite+to+Dust" alt="Typing SVG"/>
     </h1>
 </div>
 
@@ -39,6 +39,9 @@
     </a>
     <a href="https://www.mysql.com" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" class="tool-icon"/>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40" class="tool-icon"/>
     </a>
 </p>
 
