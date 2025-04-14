@@ -26,7 +26,7 @@
     </div>
 </div>
 
-<h3 align="center" style="margin-top: 50px;">💻 Programing languages I've learned so far:</h3>
+<h3 align="center" style="margin-top: 50px;">💻 Programming languages I've learned so far:</h3>
 <p align="center" class="tools-container" style="margin-top: 20px;">
     <a href="https://github.com/Kevin420-KS/PBO" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" class="tool-icon"/>
@@ -40,7 +40,7 @@
     <a href="https://www.mysql.com" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" class="tool-icon"/>
     </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
+    <a href="https://github.com/Kevin420-KS/Pemograman-Website" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40" class="tool-icon"/>
     </a>
 </p>
@@ -64,5 +64,5 @@
 <div align="center" style="margin-top: 50px;">
     <!-- Statistik Bahasa Pemrograman -->
     <h3>Most Used Languages</h3>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin420-KS&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Kevin420-KS's Top Languages" width="400"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin420-KS&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&langs_count=10" alt="Kevin420-KS's Top Languages" width="400"/>
 </div>
