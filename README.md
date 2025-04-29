@@ -14,13 +14,13 @@
     <h2>📖 About Me:</h2>
     <p>Please select language you want to see:</p>
     <div>
-        <a href="https://github.com/Kevin420-KS/About-Myself/blob/main/English" target="_blank" style="margin: 0 10px;">
+        <a href="https://github.com/Kevin420-KS/About-Myself/blob/main/English" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
             <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="USA Flag" width="40" height="25" />
         </a>
-        <a href="https://github.com/Kevin420-KS/About-Myself/blob/main/Indonesia" target="_blank" style="margin: 0 10px;">
+        <a href="https://github.com/Kevin420-KS/About-Myself/blob/main/Indonesia" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
             <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg" alt="Indonesia Flag" width="40" height="25" />
         </a>
-        <a href="https://github.com/Kevin420-KS/About-Myself/blob/main/Japanese" target="_blank" style="margin: 0 10px;">
+        <a href="https://github.com/Kevin420-KS/About-Myself/blob/main/Japanese" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
             <img src="https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg" alt="Japan Flag" width="40" height="25" />
         </a>
     </div>
