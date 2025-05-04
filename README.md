@@ -6,7 +6,7 @@
 <div align="center" style="margin-top: 30px;">
     <!-- Menampilkan Teks Berjalan -->
     <h1>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=24&duration=3000&color=FF3333&center=true&vCenter=true&width=600&lines=%E3%82%AD%E3%83%A9%E3%83%BC%E3%82%AF%E3%82%A4%E3%83%BC%E3%83%B3+rm+-rf+%E3%81%9D%E3%81%AE%E3%83%95%E3%82%A9%E3%83%AB%E3%83%80%E3%83%BC%E3%82%92%E3%81%A0%E3%81%9A%E3%81%AB;Killer+Queen+rm+-rf+those+folder+into+dust" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=24&duration=3000&color=FF3333&center=true&vCenter=true&width=600&lines=%E3%82%AD%E3%83%A9%E3%83%BC%E3%82%AF%E3%82%A4%E3%83%BC%E3%83%B3+rm+-rf+%E3%81%9D%E3%81%AE%E3%83%95%E3%82%A9%E3%83%AB%E3%83%80%E3%82%92%E5%A1%B5%E3%81%AB%E3%81%99%E3%82%8B;Killer+Queen+rm+-rf+Those+Folder+Into+Dust" alt="Typing SVG" />
     </h1>
 </div>
 
@@ -31,7 +31,7 @@
     <a href="https://github.com/Kevin420-KS/PBO" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" class="tool-icon" />
     </a>
-    <a href="https://www.python.org" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
+    <a href="https://github.com/Kevin420-KS/Python-Script" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" class="tool-icon" />
     </a>
     <a href="https://github.com/Kevin420-KS/DAA" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
@@ -50,7 +50,7 @@
     <a href="https://www.instagram.com/no_logic_thinker/" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
         <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="40" height="40" class="social-icon" />
     </a>
-    <a href="https://www.tiktok.com/@ucup_3sgul?_t=8r4aA9SZe1Y&_r=1&fbclid=PAZXh0bgNhZW0CMTEAAaazggStxbB7Q0t-0ie3gAp5dRL1QCF7kP_IHTwVX-7hJUsU0lPCxDnR_EQ_aem_tMAhUDy-3nIJU1YK6yuh0w" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
+    <a href="https://www.tiktok.com/@ucup_3sgul?_t=8r4aA9SZe1Y&_r=1" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
         <img src="https://cdn-icons-png.flaticon.com/512/3046/3046120.png" alt="TikTok" width="40" height="40" class="social-icon" />
     </a>
     <a href="https://id.pinterest.com/KevinS420/" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
@@ -64,5 +64,5 @@
 <div align="center" style="margin-top: 50px;">
     <!-- Statistik Bahasa Pemrograman -->
     <h3>Most Used Languages</h3>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin420-KS&layout=compact&theme=tokyonight" alt="Kevin420-KS's Top Languages" width="400" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin420-KS&layout=compact&theme=tokyonight&langs_count=10&hide_border=true" alt="Kevin420-KS's Top Languages" width="400" />
 </div>
