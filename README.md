@@ -6,7 +6,7 @@
 <div align="center" style="margin-top: 30px;">
     <!-- Menampilkan Teks Berjalan -->
     <h1>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=24&duration=3000&color=FF3333&center=true&vCenter=true&width=600&lines=%E3%82%AD%E3%83%A9%E3%83%BC%E3%82%AF%E3%82%A4%E3%83%BC%E3%83%B3+%E3%83%90%E3%82%A4%E3%83%84%E3%82%A1%E3%83%BB%E3%83%80%E3%82%B9%E3%83%88;Killer+Queen+Bite+to+Dust" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=24&duration=3000&color=FF3333&center=true&vCenter=true&width=600&lines=%E3%82%AD%E3%83%A9%E3%83%BC%E3%82%AF%E3%82%A4%E3%83%BC%E3%83%B3+rm+-rf+%E3%81%9D%E3%81%AE%E3%83%95%E3%82%A9%E3%83%AB%E3%83%80%E3%83%BC%E3%82%92%E3%81%A0%E3%81%9A%E3%81%AB;Killer+Queen+rm+-rf+those+folder+into+dust" alt="Typing SVG" />
     </h1>
 </div>
 
@@ -64,5 +64,5 @@
 <div align="center" style="margin-top: 50px;">
     <!-- Statistik Bahasa Pemrograman -->
     <h3>Most Used Languages</h3>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin420-KS&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&langs_count=10" alt="Kevin420-KS's Top Languages" width="400" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin420-KS&layout=compact&theme=tokyonight" alt="Kevin420-KS's Top Languages" width="400" />
 </div>
