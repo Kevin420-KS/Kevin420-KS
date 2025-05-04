@@ -59,10 +59,13 @@
     <a href="https://open.spotify.com/playlist/6j9auWzHjFTOchxzfELX2w?si=99b20b2896a54965" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
         <img src="https://cdn-icons-png.flaticon.com/512/2111/2111624.png" alt="Spotify" width="40" height="40" class="social-icon" />
     </a>
+    <a href="https://www.youtube.com/@Ucup3sgul" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
+        <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube" width="40" height="40" class="social-icon" />
+    </a>
 </p>
 
 <div align="center" style="margin-top: 50px;">
     <!-- Statistik Bahasa Pemrograman -->
     <h3>Most Used Languages</h3>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin420-KS&layout=compact&theme=tokyonight&langs_count=10&hide_border=true" alt="Kevin420-KS's Top Languages" width="400" />
-</div>
+</div> 
