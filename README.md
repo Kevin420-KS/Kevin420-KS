@@ -68,4 +68,15 @@
     <!-- Statistik Bahasa Pemrograman -->
     <h3>Most Used Languages</h3>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin420-KS&layout=compact&theme=tokyonight&langs_count=10&hide_border=true" alt="Kevin420-KS's Top Languages" width="400" />
-</div> 
+</div>
+
+<div align="center" style="margin-top: 50px;">
+    <!-- Statistik GitHub -->
+    <h3>📊 My GitHub Stats</h3>
+    <img src="https://github-readme-stats.vercel.app/api?username=Kevin420-KS&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Kevin420-KS GitHub Stats" width="500" />
+</div>
+
+<div align="center" style="margin-top: 30px;">
+    <!-- Statistik Streak -->
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Kevin420-KS&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="500" />
+</div>
