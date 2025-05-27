@@ -44,10 +44,9 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40" class="tool-icon" />
     </a>
     <a href="https://laravel.com/" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="Laravel" width="40" height="40" class="tool-icon" />
+        <img src="https://github.com/Kevin420-KS/Kevin420-KS/blob/main/Laravel.png?raw=true" alt="Laravel" width="40" height="40" class="tool-icon" />
     </a>
 </p>
-
 
 <h3 align="center" style="margin-top: 50px;">🥰 Feel free to follow one of my social media:</h3>
 <p align="center" class="social-container" style="margin-top: 20px;">
@@ -74,13 +73,8 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin420-KS&layout=compact&theme=tokyonight&langs_count=10&hide_border=true" alt="Kevin420-KS's Top Languages" width="400" />
 </div>
 
-<div align="center" style="margin-top: 50px;">
-    <!-- Statistik GitHub -->
-    <h3>📊 My GitHub Stats</h3>
-    <img src="https://github-readme-stats.vercel.app/api?username=Kevin420-KS&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Kevin420-KS GitHub Stats" width="500" />
-</div>
-
 <div align="center" style="margin-top: 30px;">
-    <!-- Statistik Streak -->
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Kevin420-KS&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="500" />
+    <!-- Statistik GitHub -->
+    <h3>📊 GitHub Stats</h3>
+    <img src="https://github-readme-stats.vercel.app/api?username=Kevin420-KS&show_icons=true&theme=tokyonight&hide_border=true" alt="Kevin420-KS's GitHub Stats" width="400" />
 </div>
