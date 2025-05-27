@@ -43,7 +43,11 @@
     <a href="https://github.com/Kevin420-KS/Pemograman-Website" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40" class="tool-icon" />
     </a>
+    <a href="https://laravel.com/" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="Laravel" width="40" height="40" class="tool-icon" />
+    </a>
 </p>
+
 
 <h3 align="center" style="margin-top: 50px;">🥰 Feel free to follow one of my social media:</h3>
 <p align="center" class="social-container" style="margin-top: 20px;">
