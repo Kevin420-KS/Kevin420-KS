@@ -69,20 +69,13 @@
 
 ---
 
-### 📊 GitHub Statistics Section
+<h2 align="center">📊 My Statistics on GitHub</h2>
 
-<details>
-  <summary><b>📊 Lihat Statistik GitHub</b></summary>
-  <br />
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Kevin420-KS&show_icons=true&theme=tokyonight&hide_border=true" width="400" />
-  </p>
-</details>
-
-<details>
-  <summary><b>🧠 Lihat Bahasa Pemrograman Paling Sering Digunakan</b></summary>
-  <br />
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin420-KS&layout=compact&theme=tokyonight&langs_count=10&hide_border=true" width="400" />
-  </p>
-</details>
+<p align="center">
+  <a href="https://github.com/Kevin420-KS">
+    <img src="https://github-readme-stats.vercel.app/api?username=Kevin420-KS&show_icons=true&theme=radical&hide=issues&hide_border=true&border_radius=10" width="450" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/Kevin420-KS">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin420-KS&layout=compact&theme=radical&hide_border=true&langs_count=10&border_radius=10" width="400" alt="Top Languages" />
+  </a>
+</p>
