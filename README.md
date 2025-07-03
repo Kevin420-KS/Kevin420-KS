@@ -67,14 +67,22 @@
     </a>
 </p>
 
-<div align="center" style="margin-top: 50px;">
-    <!-- Statistik Bahasa Pemrograman -->
-    <h3>Most Used Languages</h3>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin420-KS&layout=compact&theme=tokyonight&langs_count=10&hide_border=true" alt="Kevin420-KS's Top Languages" width="400" />
-</div>
+---
 
-<div align="center" style="margin-top: 30px;">
-    <!-- Statistik GitHub -->
-    <h3>📊 GitHub Stats</h3>
-    <img src="https://github-readme-stats.vercel.app/api?username=Kevin420-KS&show_icons=true&theme=tokyonight&hide_border=true" alt="Kevin420-KS's GitHub Stats" width="400" />
-</div>
+### 📊 GitHub Statistics Section
+
+<details>
+  <summary><b>📊 Lihat Statistik GitHub</b></summary>
+  <br />
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Kevin420-KS&show_icons=true&theme=tokyonight&hide_border=true" width="400" />
+  </p>
+</details>
+
+<details>
+  <summary><b>🧠 Lihat Bahasa Pemrograman Paling Sering Digunakan</b></summary>
+  <br />
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin420-KS&layout=compact&theme=tokyonight&langs_count=10&hide_border=true" width="400" />
+  </p>
+</details>
